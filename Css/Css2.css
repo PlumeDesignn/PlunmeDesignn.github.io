@@ -1,0 +1,132 @@
+/* 1em = 10px */
+html, body{
+height: : 100%;
+}
+body{
+
+/*--------------------------------خلفية الصفحة------------------------------ */
+background: url(watch23.jpg) no-repeat fixed center center ;
+background-size: cover;
+
+
+}
+
+
+.nav1_page1  li {
+
+
+  }
+  ul {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 20px;
+}
+/* عشان يكون بالعرض */
+  li {
+      float: left;
+  }
+
+  li a {
+
+      color: #3b81d7;
+
+      padding: 9px  100px;
+      text-decoration: none;
+
+
+  }
+
+  li a:hover {
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.5);
+   border-bottom: 1px solid ;
+
+  }
+
+}
+
+* { box-sizing: border-box; }
+
+.center{
+  text-align: center;
+    /*مساحة الكلام كل ما صار اقل كل م زادة نسبة حدوث سطر جديد */
+  width: 600px;
+/*--------------------------------------------------------- */
+  margin: 0 auto;
+  text-align:  center;
+}
+.colorplume1_blue{
+    color: #3b81d7;
+
+
+}
+.colorplume1_gray{
+    color: #5a5555;
+}
+
+.colorplume1_gray2 {
+    color: #262525;
+}
+.textfont_size1{
+  font-size: 90;
+}
+.textfont_en1{
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+
+  font-family: 'Satisfy', cursive;
+
+  text-align: center;
+   }
+  .textfont_en2{
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+
+    font-family: 'Quicksand', sans-serif;
+
+
+    text-align: center;
+
+
+
+}
+.textfont_ar1{
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+
+  font-family: 'Changa', sans-serif;
+
+    text-align: center; }
+
+.catogory{
+    margin-left: 175px;
+   
+    
+}
+h2.textfont_en1.colorplume1_gray2{
+            
+            text-indent: 60px;
+            text-align: justify;
+            line-height: 1.2; 
+             
+              }
+       
+           
+        
+        
+        
+           h2.textfont_en1.colorplume1_gray2{
+             
+             width: 50%;
+             margin: auto;
+             
+             
+             
+          }
+
+
+/*
+
+---------------------grad---------------------
+another Css file
+
+
+
+
+*/

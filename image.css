@@ -1,0 +1,26 @@
+<head>
+
+
+<style>
+{}
+    .flexbin {
+   display:flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+  margin: -2.5px; }
+  
+  .flexbin > * {
+    
+  
+    height: 300px;
+    margin: 2.5px;
+    flex-grow: 1; }
+    
+  .flexbin.flexbin-margin {
+    margin: 2.5px; }
+
+
+
+    
+    </style>
+</head>

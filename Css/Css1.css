@@ -1,0 +1,112 @@
+/*            */
+*{
+margin: 0;
+padding: 0;
+
+}
+html, body{
+height: : 100%;
+}
+
+body{
+/*--------------------------------خلفية الصفحة------------------------------ */
+    background: url(watch23.jpg) no-repeat fixed center center ;
+    background-size: cover;
+/*
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+*/
+
+}
+.center{
+
+    /*مساحة الكلام كل ما صار اقل كل م زادة نسبة حدوث سطر جديد */
+  width: 600px;
+/*--------------------------------------------------------- */
+  margin: 0 auto;
+  text-align:  center;
+}
+.colorplume1_blue {
+    color: #3b81d7;
+}
+
+.colorplume1_gray {
+    color: #5a5555;
+}
+.colorplume1_gray2 {
+    color: #262525;
+}
+.textfont_en1{
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+
+  font-family: 'Satisfy', cursive;
+
+  text-align: center;
+   }
+
+  .textfont_en2{
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+
+    font-family: 'Quicksand', sans-serif;
+
+
+    text-align: center;
+
+}
+
+.textfont_ar1 {
+  text-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+
+  font-family: 'Changa', sans-serif;
+
+  text-align: center;
+
+}
+.plume-section.nav1_page1.textfont_en1{
+
+    margin: 2.5px;
+
+}
+
+
+/*--------------- قبل التاشير على الزر -------------------*/
+
+.boton_join:link, .boton_join:visited {
+  border: 2px solid #a3bfcb;
+  border-radius: 10px;
+  display: inline-block;
+  width: 200px;
+  padding: 7px;
+  margin: 40px;
+  font-size: 1em;
+  text-align: center;
+text-decoration: none;
+text-transform: uppercase;
+    color: #a3bfcb;
+}
+
+/*  ------------ بعد التاشير على الزر ------------- */
+.boton_join:hover, .boton_join:active {
+    color:#3b81d7;
+
+
+
+
+/*
+     ------------------>       stander         <--------------------
+boton_join{
+      border: 2px solid #a3bfcb;
+      border-radius: 10px;
+      display: inline-block;
+      width: 200px;
+      padding: 4px;
+      margin: 4px;
+      font-size: 1.5em;
+      text-align: center;
+  text-decoration: none;
+text-transform: uppercase;
+    color: #a3bfcb;
+
+ }
+*/
